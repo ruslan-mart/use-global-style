@@ -13,14 +13,14 @@
   <br>
   <br>
   <sup>
-    <a href="https://github.com/ruslan-mart/use-global-styles/actions/workflows/publish.yml">
-      <img src="https://img.shields.io/github/workflow/status/ruslan-mart/use-global-styles/CI" alt="npm downloads" />
+    <a href="https://github.com/ruslan-mart/use-global-style/actions/workflows/publish.yml">
+      <img src="https://img.shields.io/github/workflow/status/ruslan-mart/use-global-style/CI" alt="npm downloads" />
     </a>
-    <a href="https://www.npmjs.com/package/use-global-styles">
-       <img src="https://img.shields.io/npm/v/use-global-styles.svg" alt="npm package" />
+    <a href="https://www.npmjs.com/package/use-global-style">
+       <img src="https://img.shields.io/npm/v/use-global-style.svg" alt="npm package" />
     </a>
-    <a href="https://www.npmjs.com/package/use-global-styles">
-       <img src="https://img.shields.io/npm/dw/use-global-styles" alt="npm package" />
+    <a href="https://www.npmjs.com/package/use-global-style">
+       <img src="https://img.shields.io/npm/dw/use-global-style" alt="npm package" />
     </a>
   </sup>
 </p>
@@ -32,13 +32,13 @@ Use this hook if you need to control global styles inside React components.
 ## Installation
 
 ```bash
-npm install use-global-styles
+npm install use-global-style
 ```
 
 or yarn
 
 ```bash
-yarn add use-global-styles
+yarn add use-global-style
 ```
 
 ## Syntax
