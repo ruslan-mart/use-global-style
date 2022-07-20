@@ -3,7 +3,7 @@
 <p align="center">
   <br>
   <br>
-  <a href="#react-drag">
+  <a href="#use-global-style">
     <img alt="" src=".assets/logo.svg" width="600">
   </a>
 </p>
