@@ -1,6 +1,6 @@
 {
   "name": "use-global-style",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Ruslan Martynov",
   "license": "MIT",
   "description": "React use-global-style hook for global CSS",
